@@ -1,0 +1,74 @@
+[
+    {
+        "id": "quiet-morning",
+        "title": "Quiet Morning",
+        "date": "Nov 2023",
+        "category": "Paintings",
+        "height": 320,
+        "art": {
+            "bg": "#E8F1F2",
+            "type": "circle-wave",
+            "color": "#BBD3D9"
+        }
+    },
+    {
+        "id": "structure-in-dust",
+        "title": "Structure in Dust",
+        "date": "Oct 2023",
+        "category": "Digital",
+        "height": 450,
+        "art": {
+            "bg": "#F4EFEA",
+            "type": "rect-line",
+            "color": "#A66249"
+        }
+    },
+    {
+        "id": "breath",
+        "title": "Breath",
+        "date": "Sept 2023",
+        "category": "Sketches",
+        "height": 280,
+        "art": {
+            "bg": "#F1F5F1",
+            "type": "circle",
+            "color": "#B8C4B3"
+        }
+    },
+    {
+        "id": "orbital-paths",
+        "title": "Orbital Paths",
+        "date": "Aug 2023",
+        "category": "Paintings",
+        "height": 380,
+        "art": {
+            "bg": "#FDFCF8",
+            "type": "double-circle",
+            "color": "#CFAA80"
+        }
+    },
+    {
+        "id": "intersection",
+        "title": "Intersection",
+        "date": "July 2023",
+        "category": "Sketches",
+        "height": 300,
+        "art": {
+            "bg": "#EBEBEB",
+            "type": "cross",
+            "color": "#5C3D32"
+        }
+    },
+    {
+        "id": "warmth-remaining",
+        "title": "Warmth Remaining",
+        "date": "June 2023",
+        "category": "Digital",
+        "height": 420,
+        "art": {
+            "bg": "#FAF3E0",
+            "type": "ellipse",
+            "color": "#A66249"
+        }
+    }
+]
