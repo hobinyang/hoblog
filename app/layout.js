@@ -2,8 +2,8 @@ import '@/styles/globals.css';
 import AmbientEffects from '@/components/AmbientEffects';
 
 export const metadata = {
-  title: 'Sanctuary',
-  description: 'A collection of thoughts & reflections — a quiet corner of the internet.',
+  title: "Hobin's Corner",
+  description: "A lot of nonsense with a pinch of salt",
 };
 
 export default function RootLayout({ children }) {

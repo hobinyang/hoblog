@@ -15,9 +15,9 @@ export default function Header() {
   return (
     <header className="site-header fade-in">
       <h1 className="site-title">
-        <Link href="/">Sanctuary</Link>
+        <Link href="/">Hobnon's Corner</Link>
       </h1>
-      <div className="site-subtitle">A Collection of Thoughts &amp; Reflections</div>
+      <div className="site-subtitle">Reflections and Ramblings</div>
       <nav className="site-nav">
         {navItems.map(({ href, label }) => {
           const isActive =
