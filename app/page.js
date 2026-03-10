@@ -4,8 +4,8 @@ import EntryCard from '@/components/EntryCard';
 import { getAllEntries } from '@/lib/content';
 
 export const metadata = {
-  title: 'Sanctuary — A Collection of Thoughts & Reflections',
-  description: 'A quiet corner of the internet for journal entries, visual art, and personal reflection.',
+  title: 'Hobnon\'s Corner',
+  description: 'A lot of nonsense with a pinch of salt',
 };
 
 export default function HomePage() {
